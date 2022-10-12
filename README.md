@@ -1,3 +1,7 @@
+##To run the Application Go to terminal and Excute--
+----step-1 nodemon server
+----Step-2 npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
