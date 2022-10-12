@@ -26,7 +26,7 @@ function DashBoard() {
     <>
 
     <div className='pp'>
-       <h2>Welcome to DashBoard <br></br><h1 className='text-success'> Mr .{name} </h1>
+       <h2>Welcome to DashBoard <br></br><h1 className='text-success'> {name} </h1>
     <br></br>
       <Button variant='primary' onClick={handlelogout}>Log out</Button> </h2>
     </div>
